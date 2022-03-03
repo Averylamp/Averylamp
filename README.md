@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=averylamp&label=Profile%20views&color=0e75b6&style=flat" alt="averylamp" /> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=averylamp&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=averylamp)](https://git.io/streak-stats)
+
 <!--
 **Averylamp/Averylamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
