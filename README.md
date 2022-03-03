@@ -2,7 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=averylamp&label=Profile%20views&color=0e75b6&style=flat" alt="averylamp" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=averylamp&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Avery's GitHub stats](https://github-readme-stats.vercel.app/api?username=averylamp&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=averylamp&layout=compact&theme=dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=averylamp&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=averylamp)](https://git.io/streak-stats)
 
 <!--
