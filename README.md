@@ -12,5 +12,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=averylamp&layout=compact&theme=dark&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=averylamp&theme=onedark&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=averylamp&theme=dark)](https://git.io/streak-stats)
