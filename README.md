@@ -1,5 +1,4 @@
 ### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=averylamp&label=Profile%20views&color=0e75b6&style=flat" alt="averylamp" /> </p>
 
 🔭 I’m currently working on ML Platforms and Cloud stuff for AdeptAI
 
