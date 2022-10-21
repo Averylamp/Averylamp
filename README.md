@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on ML Platforms and Cloud stuff for AdeptAI
+🔭 I’m currently working on ML Stuff for AdeptAI
 
 📫 How to reach me: `<my github username>` at `gmail`
 
